@@ -1,0 +1,5 @@
+{
+  "name": "ImaginAI",
+  "description": "A powerful AI image generation tool powered by Google Gemini. Create images from text prompts or edit existing images with ease.",
+  "requestFramePermissions": []
+}
